@@ -3,4 +3,4 @@ A
 Aenderung
 im master
 Drin
-Konflikt zu QS
+Konflikt zu master
